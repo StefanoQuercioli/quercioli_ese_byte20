@@ -25,3 +25,5 @@ drwxr-xr-x  7 sdiruvo       sdiruvo       4096 Mar 15 08:32 Silvia_Di_Ruvo
 drwxr-xr-x  7 rsomigli      rsomigli      4096 Mar 15 09:51 Somigli_Riccardo
 drwxr-xr-x 10 gveracini     gveracini     4096 Mar 16 14:56 veracini_gianluca
 drwxr-xr-x  4 mvettori      mvettori      4096 Mar  9 15:29 Vettori_Mattia
+
+modifica
